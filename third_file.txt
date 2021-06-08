@@ -1,1 +1,2 @@
 hi, This is a third file.
+Git is really useful!
